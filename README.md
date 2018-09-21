@@ -10,7 +10,10 @@ This is a guide that I created to self-teach data science and machine learning. 
 * R for Data Science
 * Numpy
 * Pandas
-  - DataFrames
+  - Data Frames
+  - Data Manipulation
 * Matplotlib
+* Scikit Learn
+* Tensorflow
 
 *More to come...*
