@@ -1,4 +1,4 @@
-# Harish's Data Science Guide
+# My Data Science Guide
 
 This is a guide that I created to self-teach data science and machine learning. I will use Jupyter Notebooks to run code in Python and R. Here is the curriculum, which will be updated as material gets added:
 
