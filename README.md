@@ -12,6 +12,7 @@ This is a guide that I created to self-teach data science and machine learning. 
 * Pandas
   - Data Frames
   - Data Manipulation
+  - Pivot Tables
 * Matplotlib
 * Scikit Learn
 * Tensorflow
