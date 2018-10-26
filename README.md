@@ -8,6 +8,7 @@ This is a guide that I created to self-teach data science and machine learning. 
   - Methods, Objects, and Classes
   - Advanced Python
 * R for Data Science
+* Statistics
 * Numpy
 * Pandas
   - Data Frames
