@@ -1,4 +1,4 @@
-# My Data Science Guide
+# The Data Science Guide
 
 This is a guide that I created to self-teach data science and machine learning. There are tons of resources online, but I feel a consolidated and complete guide will help me learn better. I will use Jupyter Notebooks to run code in Python and R. Here is the curriculum, which will be updated as material gets added:
 
