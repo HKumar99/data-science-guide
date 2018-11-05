@@ -16,6 +16,8 @@ This is a guide that I created to self-teach data science and machine learning. 
   - Pivot Tables
 * Matplotlib
 * Data Analysis Techniques
+  - Regression
+  - K-Means Clustering
 * Scikit Learn
 * Tensorflow
 
