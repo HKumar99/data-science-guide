@@ -8,7 +8,15 @@ This is a guide that I created to self-teach data science and machine learning. 
   - Methods, Objects, and Classes
   - Advanced Python
 * R for Data Science
-* Statistics
+* Statistics (Calculus-based)
+  - Descriptive Statistics
+  - Set Theory
+  - Probability
+  - Discrete Probability Distributions
+  - Continuous Distributions
+  - Joint Probability Distributions
+  - Point Estimation
+  - Confidence Intervals
 * Numpy
 * Pandas
   - Data Frames
